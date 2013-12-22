@@ -7,7 +7,7 @@ jQuery plugin to filter through data on a page as you type
 
 **Note:** As this is a jQuery plugin, you will need to include jQuery prior to using this plugin.
 
-You will also need the [String.score()](cdnjs.cloudflare.com/ajax/libs/string_score/0.1.20/string_score.min.js) library.
+You will also need the [String.score()](http://cdnjs.cloudflare.com/ajax/libs/string_score/0.1.20/string_score.min.js) library.
 
 
     $(".search").livesearcher({
