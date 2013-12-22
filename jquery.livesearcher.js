@@ -1,6 +1,6 @@
 ;(function($){
 
-	$.fn.livesearch = function (options) {
+	$.fn.livesearcher = function (options) {
 
 		var timeout = null,
 			settings = $.extend( {
