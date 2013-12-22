@@ -18,7 +18,7 @@
 					// where to look up against
 					return $(element).text();
 				},
-				delay: 300 // how long do we wait until start searching
+				delay: 300, // how long do we wait until start searching
 				score: 0.50
 			}, options);
 

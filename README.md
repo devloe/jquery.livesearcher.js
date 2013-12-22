@@ -36,7 +36,7 @@ You will also need the [String.score()](http://cdnjs.cloudflare.com/ajax/libs/st
 		},
         
         // 0 (less strict) to 1 (more strict) - Default: 0.5
-        score: 0.8
+        score: 0.8,
         
         // delay before start searching - Default: 500
         delay: 300
